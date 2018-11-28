@@ -8,4 +8,6 @@
 
 ?>
 
-<div class="slims-card slims-container container">
+
+<div class="container">
+<div class="row slims-card slims-container">

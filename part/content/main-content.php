@@ -8,7 +8,7 @@
 
 ?>
 
-<main class="col-sm-8">
+<div class="col-sm-8">
 	<?php 
 
 	if(( isset($_GET['search']) || isset($_GET['title']) || isset($_GET['keywords']) || isset($_GET['p']))) {
@@ -42,4 +42,4 @@
 	}
 
 	?>
-</main>
+</div>

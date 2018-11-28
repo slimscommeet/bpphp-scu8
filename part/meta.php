@@ -80,7 +80,6 @@
 <script src="<?php echo CURRENT_TEMPLATE_DIR; ?>js/bootstrap.min.js"></script>
 
 <!-- Script JS Tambahkan Dibawah Ini ============= -->
-<script src="<?php echo CURRENT_TEMPLATE_DIR; ?>js/jquery-2.2.4.min.js"></script>
 <script src="<?php echo CURRENT_TEMPLATE_DIR; ?>js/popper.min.js"></script>
 <script src="<?php echo CURRENT_TEMPLATE_DIR; ?>js/bootstrap.min.js"></script>			
 <script src="<?php echo CURRENT_TEMPLATE_DIR; ?>js/easing.min.js"></script>			
